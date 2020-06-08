@@ -3483,6 +3483,7 @@ DOMAIN-SUFFIX,pbs.org
 DOMAIN-SUFFIX,pbwiki.com
 DOMAIN-SUFFIX,pbworks.com
 DOMAIN-SUFFIX,pbxes.com
+DOMAIN-SUFFIX,pbs.twimg.com
 DOMAIN-SUFFIX,pbxes.org
 DOMAIN-SUFFIX,pcanywhere.net
 DOMAIN-SUFFIX,pcc.gov.tw
@@ -5013,6 +5014,7 @@ DOMAIN-SUFFIX,vrmtr.com
 DOMAIN-SUFFIX,vrsmash.com
 DOMAIN-SUFFIX,vtunnel.com
 DOMAIN-SUFFIX,vuku.cc
+DOMAIN-SUFFIX,video.twimg.com
 DOMAIN-SUFFIX,vultryhw.com
 DOMAIN-SUFFIX,w.idaiwan.com
 DOMAIN-SUFFIX,w3schools.com
